@@ -47,6 +47,8 @@ program enrich pistol boring dove resemble valley protect sentence double stereo
 	* On-chain goverance design & review
 	* On-chain goverance implementation
 	* JS library support
+	* To be a validator
+	* Propose
 * Throughput optimization	
 	* TPS test script
 	* TPS profiling

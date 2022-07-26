@@ -30,6 +30,8 @@ program enrich pistol boring dove resemble valley protect sentence double stereo
 	* 😄 Deploy & setup
 	* 😄 Instruction/script to run one local nodes：http://wiki.lucq.fun/share/595c08cc-0103-4b9e-8193-4a00ae90b22e
 	* Multi node by script not docker
+	* To be a validator
+	* Propose
 * EVM Compatibility	
 	* 😄 EVM Compatibility verification
 	* 😄 Solidity smart contract support verification：至少支持solidity支持到了 0.8.9 版本了。
@@ -47,8 +49,6 @@ program enrich pistol boring dove resemble valley protect sentence double stereo
 	* On-chain goverance design & review
 	* On-chain goverance implementation
 	* JS library support
-	* To be a validator
-	* Propose
 * Throughput optimization	
 	* TPS test script
 	* TPS profiling

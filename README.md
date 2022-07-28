@@ -29,7 +29,7 @@ program enrich pistol boring dove resemble valley protect sentence double stereo
 	* 😄 EVM chain investigation & selection：EVMOS
 	* 😄 Deploy & setup
 	* 😄 Instruction/script to run one local nodes：http://wiki.lucq.fun/share/595c08cc-0103-4b9e-8193-4a00ae90b22e
-	* Multi node by script not docker
+	* 😄 Multi node by script not docker
 	* To be a validator
 	* Propose
 * EVM Compatibility	
